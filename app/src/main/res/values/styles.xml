@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Primary brand color for your app. -->
+        <item name="colorPrimary">@color/your_color_primary</item>
+
+        <!-- Darker variant of the primary color, for status bar and contextual app bars. -->
+        <item name="colorPrimaryDark">@color/your_color_primary_dark</item>
+
+        <!-- Theme-specific color for the Android framework. -->
+        <item name="colorAccent">@color/your_color_accent</item>
+
+        <!-- Customize your app's typography -->
+        <item name="android:fontFamily">@font/your_font</item>
+
+        <!-- Customize other aspects of your app's appearance here -->
+        <!-- For example: -->
+        <!-- <item name="android:windowBackground">@drawable/your_background</item> -->
+        <!-- <item name="android:textColorPrimary">@color/text_primary</item> -->
+        <!-- <item name="android:textColorSecondary">@color/text_secondary</item> -->
+        <!-- <item name="android:buttonStyle">@style/your_button_style</item> -->
+        <!-- <item name="android:editTextStyle">@style/your_edittext_style</item> -->
+        <!-- <item name="android:spinnerStyle">@style/your_spinner_style</item> -->
+        <!-- <item name="android:checkboxStyle">@style/your_checkbox_style</item> -->
+        <!-- <item name="android:radiobuttonStyle">@style/your_radiobutton_style</item> -->
+        <!-- <item name="android:progressbarStyle">@style/your_progressbar_style</item> -->
+        <!-- <item name="android:ratingBarStyle">@style/your_ratingbar_style</item> -->
+        <!-- <item name="android:imageButtonStyle">@style/your_imagebutton_style</item> -->
+    </style>
+</resources>
